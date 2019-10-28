@@ -38,14 +38,17 @@ h3 {
   width: 100%;
 }
 
+/*add background color blue to the 7th div*/
 .element:nth-of-type(7) {
 	background-color: blue;
 }
 
+/*add background color blue to the 8th div*/
 .element:nth-of-type(8) {
 	background-color: yellow;
 }
 
+/*add background color blue to the 9th div*/
 .element:nth-of-type(9) {
 	background-color: purple;
 }
